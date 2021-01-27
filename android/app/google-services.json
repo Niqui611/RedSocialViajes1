@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580045920859",
+    "project_id": "redsocialviajes-f2026",
+    "storage_bucket": "redsocialviajes-f2026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580045920859:android:a9e5276491f058b7ec3d7e",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580045920859-05h32pbga76odhk4tp62k7rlrfjq6a8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "f184adfe34e9eeed36c22a4a4febeb25e0c0f787"
+          }
+        },
+        {
+          "client_id": "580045920859-80gdtnjehh53it33kn1hpfqmr9r7jpc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_MgLR4eILx35Vrh7E3TehY9oj7NndeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580045920859-80gdtnjehh53it33kn1hpfqmr9r7jpc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
